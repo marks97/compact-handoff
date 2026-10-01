@@ -1,0 +1,12 @@
+{
+  "name": "compact-handoff",
+  "version": "1.0.0",
+  "description": "Compact the current conversation into a large standalone handoff file on disk, then open a BRAND NEW Claude Code session named after the current chat with an incremented counter, seeded with only a pointer to that file, leaving the current ",
+  "author": {
+    "name": "Marc Amoros",
+    "url": "https://github.com/marks97"
+  },
+  "repository": "https://github.com/marks97/compact-handoff",
+  "license": "MIT",
+  "skills": "./compact-handoff/"
+}
